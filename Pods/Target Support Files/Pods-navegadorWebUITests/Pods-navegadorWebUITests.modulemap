@@ -1,0 +1,6 @@
+framework module Pods_navegadorWebUITests {
+  umbrella header "Pods-navegadorWebUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
